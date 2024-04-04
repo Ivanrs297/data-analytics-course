@@ -1,4 +1,4 @@
-Data Analytics Course
+Data Analytics Course :)
 ==============================
 
 A project for the lectures of Data Analytics Course
